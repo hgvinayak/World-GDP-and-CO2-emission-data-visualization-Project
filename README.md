@@ -1,4 +1,4 @@
-# Data Analysis with Python - Project: Analyzing CO2 Emissions and GDP Trends in Australia**
+# Data Analysis with Python - Project: CO2 Emissions and GDP Trends
 
 ✅ Objective: 
 This project focuses on analyzing CO2 emissions (per capita) and GDP values over the years in various countries. For   this analysis, we have selected Australia as our primary focus. The dataset comprises a list of countries around the world along with associated indicators over the years.
